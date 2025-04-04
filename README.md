@@ -4,10 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="https://mgr-website.netlify.app/"><img src="https://img.shields.io/badge/Website-mgr--website-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a>
+  <a href="https://nodrop-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nodrop--website-blue?style=for-the-badge&logo=vercel" alt="Portfolio Website"></a>
   <a href="https://www.linkedin.com/in/muhammad-gilang-ramadhan-54b58a20b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/nodrop.30"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://github.com/gilanglahat22"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
+
+<div align="center">
+  <h2>Software Engineer & Security Analyst from Bandung Institute of Technology</h2>
+  <p>Specializing in web development, algorithms, and cybersecurity solutions.</p>
+</div>
 
 ## 💻 About Me
 
@@ -16,6 +22,7 @@
 - 🌍 Based in **Lahat, Sumatera Selatan, Indonesia**
 - 🔭 Passionate about software development, cybersecurity, and competitive programming
 - 🌱 Always learning and exploring new technologies
+- 📚 Background in algorithm design, web development, and security analysis
 
 ## 🛠️ Tech Stack
 
@@ -39,18 +46,39 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilanglahat22&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🏆 Achievements
-
-- YOLO Achievement
-- Pull Shark Achievement
-- Quickdraw Achievement
-
 ## 📌 Featured Projects
 
 - **GWallet**: A wallet application with frontend and backend components
 - **BlueSound**: Audio processing application
 - **Competitive Programming**: Collection of solutions for programming competitions
 
+## 🏆 Achievements
+
+- YOLO Achievement
+- Pull Shark Achievement
+- Quickdraw Achievement
+
+## 🧠 Experience
+
+My professional background includes:
+- Backend development
+- Algorithm optimization
+- Cybersecurity analysis
+- Web application development
+
+## 🔍 Portfolio Navigation
+
+My portfolio website features these sections:
+- 🏠 **Home**: Introduction and overview
+- 👤 **About**: Learn more about my background at ITB and career journey
+- 📝 **Blog**: Technical articles and insights
+- 💼 **Projects**: Explore my work in competitive programming and development
+- 🛠️ **Skills**: Detailed breakdown of my technical expertise
+- 👨‍💻 **Experience**: Professional history and accomplishments
+- 📨 **Contact**: Connect with me for opportunities
+- 💬 **Public Chat**: Engage in discussions
+
 ## 📫 Let's Connect!
 
-Feel free to reach out for collaborations or just a friendly chat!
+Feel free to reach out for collaborations, technical inquiries, or just a friendly chat!
+Visit my portfolio at [nodrop-website.vercel.app](https://nodrop-website.vercel.app) to learn more.
